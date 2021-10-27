@@ -1,8 +1,8 @@
 - Hi, I’m @rockaveue
 - I’m interested in software, web, mobile development.
-- I have experience with Ruby, Python, Java, PHP, JavaScript, HTML+CSS, C, Latex, MySQL.
-- I have worked on Ruby on Rails project during internship at Unimedia Solutions.
-- I’m currently trainee at Unimedia Solutions and learning ReactJs.
+- I have experience with Ruby, Python, Java, PHP, JavaScript, HTML+CSS, C, Latex, MySQL, React.js, Next.js, Redux.
+- I have worked on Ruby on Rails, React.js and Next.js project during internship at Unimedia Solutions.
+- I’m currently working at Unimedia Solutions.
 - How to reach me dulguun.tuguldur@unimedia.mn
 
 <!---
