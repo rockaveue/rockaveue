@@ -1,6 +1,6 @@
 - Hi, I’m Dulguun.
 - I have experience with Ruby, Python, Java, PHP, JavaScript, HTML+CSS, C, Latex, MySQL, NoSQL, React.js, Next.js, Nest.js, Redux.
-- You can reach me at dulguun.tuguldur@unimedia.mn
+- You can reach me at rockaveue@gmail.com
 <!--- For cloud services I am familiar with EC2, S3, RDS, Lambda, DynamoDB.-->
 
 <!---
